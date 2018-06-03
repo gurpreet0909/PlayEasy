@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sporting   Eazy</string>
+    <string name="step_1">JOIN THE EVENT</string>
+    <string name="step_2">MEET THE PRO</string>
+    <string name="step_3">JOIN THE GROUP</string>
+    <string name="step_4">LET\'S GET STARTED</string>
+    <string name="step_4_4">CONTENT</string>
+    <string name="step_4_5">(CONTENT)</string>
+    <string name="step_2_2">TRAINER</string>
+    <string name="next">Next</string>
+    <string name="login">login/register</string>
+    <string name="start">START</string>
+    <string name="signin">Sign In</string>
+    <string name="facebook_app_id">142004719816673</string>
+    <string name="fb_login_protocol_scheme">fb142004719816673</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">X549VTFDkk5itBpSvh6yyA5Qr</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">SiXKpw5lznhJ5gDgbHVL8OjmhOpQzJHHEhLly5Kecv8yFiYAd6</string>
+    <string name="MAP_API_KEY">AIzaSyBhTzhrCOZOdhXOoV0FfPRR_SJUVaPlbv4</string>
+    <string name="place_details">\"               \"</string>
+
+
+</resources>

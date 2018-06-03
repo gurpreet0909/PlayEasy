@@ -1,0 +1,408 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/1c21b2716481012ea6447bfdcbf61836/AndroidManifest.xml:18:1-27:12
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:18:1-37:12
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:18:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:18:1-35:12
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/3ef897fc3b65cd3d5a9df725c0229a7c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/4f7b19bcd248add1f1dbbe3f78649346/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/c16e522b1d3022ab761b56d48b6f5d03/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/3e1e9d5d05169257198bfb8a830d1e6e/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/f49dcf7fb2c1aca9fb9a50c24d65ff80/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/bfa8ba20bd4355d1f5f274d6f2b0950e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4ea69a7ea427c4fdf202fe2e420844c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/09cf52bccba12902cfedbff417a11d09/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/2357f1cf1061752e075f7f8bd92d15e5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/85c7d3243645e90c77eb5848edd2cf12/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/ac58dcfcf2b103758af54e50185dbba7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/e6bc422686e81350405ee6e86e818ee4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4d133619a233c2f61cfa728e3ce2ea69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7bf8b16ee4be5ba7aa18070150072de4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/afd2c009a47f0722ff325cebb8d4315a/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/eb1f18f96c8ff4e0f963b302cb9cbd75/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/9c7bc9c957aec1eabcdf7178186c1627/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4002f6f98a0e65810cb3bdfb312470df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2473c122e0a8dbbd997013aa8798a413/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/dd1fdf19b3488632394761c10bd3718d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/287005cc770c36fc0f6f5963bb819274/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/19e39c2c79327f897368068e676df09b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/26b693d10f3bbe4b2c9160a29e622ad9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/727a0e226e763159cf0d7cdcdd77e8e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/33ea897f858160bd89a00fc211f21a86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/ccc1493fa39a6d5b91dca9775d911856/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/bc470d1a0b7acf79a76eabdc0b77462e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/2ddff243f35ffb195785506352e4edf9/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a23154b9da3fb347a10e59e2168d55af/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:9:5-97
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:9:22-95
+application
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:13:5-64:19
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/1c21b2716481012ea6447bfdcbf61836/AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/1c21b2716481012ea6447bfdcbf61836/AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:27:5-33:19
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/3ef897fc3b65cd3d5a9df725c0229a7c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/3ef897fc3b65cd3d5a9df725c0229a7c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/4f7b19bcd248add1f1dbbe3f78649346/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/4f7b19bcd248add1f1dbbe3f78649346/AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/c16e522b1d3022ab761b56d48b6f5d03/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/c16e522b1d3022ab761b56d48b6f5d03/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/3e1e9d5d05169257198bfb8a830d1e6e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/3e1e9d5d05169257198bfb8a830d1e6e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/f49dcf7fb2c1aca9fb9a50c24d65ff80/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/f49dcf7fb2c1aca9fb9a50c24d65ff80/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4ea69a7ea427c4fdf202fe2e420844c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4ea69a7ea427c4fdf202fe2e420844c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/09cf52bccba12902cfedbff417a11d09/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/09cf52bccba12902cfedbff417a11d09/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/2357f1cf1061752e075f7f8bd92d15e5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/2357f1cf1061752e075f7f8bd92d15e5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/85c7d3243645e90c77eb5848edd2cf12/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/85c7d3243645e90c77eb5848edd2cf12/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/ac58dcfcf2b103758af54e50185dbba7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/ac58dcfcf2b103758af54e50185dbba7/AndroidManifest.xml:5:5-20
+MERGED from [com.facebook.android:facebook-places:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/afd2c009a47f0722ff325cebb8d4315a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/afd2c009a47f0722ff325cebb8d4315a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/eb1f18f96c8ff4e0f963b302cb9cbd75/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/eb1f18f96c8ff4e0f963b302cb9cbd75/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/9c7bc9c957aec1eabcdf7178186c1627/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/9c7bc9c957aec1eabcdf7178186c1627/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/ccc1493fa39a6d5b91dca9775d911856/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/ccc1493fa39a6d5b91dca9775d911856/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/bc470d1a0b7acf79a76eabdc0b77462e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/bc470d1a0b7acf79a76eabdc0b77462e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/2ddff243f35ffb195785506352e4edf9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/2ddff243f35ffb195785506352e4edf9/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:19:9-40
+activity#playeazy.com.gurpreet.SplashActivity
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:22:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:26:27-74
+activity#playeazy.com.gurpreet.PagerActivity
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:30:9-71
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:30:19-69
+activity#playeazy.com.gurpreet.InfoActivity
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:31:9-70
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:31:19-68
+activity#playeazy.com.gurpreet.LoginActivity
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:32:9-71
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:32:19-69
+activity#playeazy.com.gurpreet.ResetPasswordActivity
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:33:9-79
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:33:19-77
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:35:9-107
+	android:value
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:35:66-105
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:35:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:37:9-40:44
+MERGED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:40:9-41
+	android:configChanges
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:38:9-101
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:37:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:42:9-51:20
+	android:exported
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:43:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:45:13-50:29
+action#android.intent.action.VIEW
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:47:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:48:17-78
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:48:27-75
+data
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:49:17-75
+	android:scheme
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:49:23-72
+activity#playeazy.com.gurpreet.MapActivity
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:53:10-70
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:53:20-68
+meta-data#com.google.android.gms.version
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:56:9-58:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/09cf52bccba12902cfedbff417a11d09/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/09cf52bccba12902cfedbff417a11d09/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:58:13-66
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:57:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:60:9-62:50
+	android:value
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:62:13-48
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml:61:13-58
+uses-sdk
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/1c21b2716481012ea6447bfdcbf61836/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/1c21b2716481012ea6447bfdcbf61836/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:23:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/3ef897fc3b65cd3d5a9df725c0229a7c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/3ef897fc3b65cd3d5a9df725c0229a7c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/4f7b19bcd248add1f1dbbe3f78649346/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/4f7b19bcd248add1f1dbbe3f78649346/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/c16e522b1d3022ab761b56d48b6f5d03/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/c16e522b1d3022ab761b56d48b6f5d03/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/3e1e9d5d05169257198bfb8a830d1e6e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/3e1e9d5d05169257198bfb8a830d1e6e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/f49dcf7fb2c1aca9fb9a50c24d65ff80/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/f49dcf7fb2c1aca9fb9a50c24d65ff80/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/bfa8ba20bd4355d1f5f274d6f2b0950e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/bfa8ba20bd4355d1f5f274d6f2b0950e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4ea69a7ea427c4fdf202fe2e420844c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/4ea69a7ea427c4fdf202fe2e420844c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/09cf52bccba12902cfedbff417a11d09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/09cf52bccba12902cfedbff417a11d09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/2357f1cf1061752e075f7f8bd92d15e5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/2357f1cf1061752e075f7f8bd92d15e5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/85c7d3243645e90c77eb5848edd2cf12/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/85c7d3243645e90c77eb5848edd2cf12/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/ac58dcfcf2b103758af54e50185dbba7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/ac58dcfcf2b103758af54e50185dbba7/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/e6bc422686e81350405ee6e86e818ee4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/e6bc422686e81350405ee6e86e818ee4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4d133619a233c2f61cfa728e3ce2ea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/4d133619a233c2f61cfa728e3ce2ea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7bf8b16ee4be5ba7aa18070150072de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7bf8b16ee4be5ba7aa18070150072de4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/afd2c009a47f0722ff325cebb8d4315a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/afd2c009a47f0722ff325cebb8d4315a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/eb1f18f96c8ff4e0f963b302cb9cbd75/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/eb1f18f96c8ff4e0f963b302cb9cbd75/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/9c7bc9c957aec1eabcdf7178186c1627/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/9c7bc9c957aec1eabcdf7178186c1627/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4002f6f98a0e65810cb3bdfb312470df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4002f6f98a0e65810cb3bdfb312470df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2473c122e0a8dbbd997013aa8798a413/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2473c122e0a8dbbd997013aa8798a413/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/dd1fdf19b3488632394761c10bd3718d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/dd1fdf19b3488632394761c10bd3718d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/287005cc770c36fc0f6f5963bb819274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/287005cc770c36fc0f6f5963bb819274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/19e39c2c79327f897368068e676df09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/19e39c2c79327f897368068e676df09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/26b693d10f3bbe4b2c9160a29e622ad9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/26b693d10f3bbe4b2c9160a29e622ad9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/727a0e226e763159cf0d7cdcdd77e8e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/727a0e226e763159cf0d7cdcdd77e8e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/33ea897f858160bd89a00fc211f21a86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/33ea897f858160bd89a00fc211f21a86/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/ccc1493fa39a6d5b91dca9775d911856/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/ccc1493fa39a6d5b91dca9775d911856/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/bc470d1a0b7acf79a76eabdc0b77462e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/bc470d1a0b7acf79a76eabdc0b77462e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/2ddff243f35ffb195785506352e4edf9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/2ddff243f35ffb195785506352e4edf9/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a23154b9da3fb347a10e59e2168d55af/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a23154b9da3fb347a10e59e2168d55af/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurpreetsingh/Desktop/SportingEazy/app/src/main/AndroidManifest.xml
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/749b11f73758c88e1e73f773ecf635d3/AndroidManifest.xml:33:13-75
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/6bb528b3b6e97a0558004204ab36e5a3/AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/fb7fe665fbf019bf422fbce4db857c25/AndroidManifest.xml:29:13-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0ce6cc920e44b3691e12f45f052b32a5/AndroidManifest.xml:28:9-32
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/aafd6be5c9093aa2d0adbeded9f8f1b7/AndroidManifest.xml:33:19-68
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/a61be76c62849c665c0e487479ef0a91/AndroidManifest.xml:24:13-79
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:45:13-86
+intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/6dae83449de390bc7e0fb01a29000f95/AndroidManifest.xml:48:25-92

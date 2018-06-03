@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#030303">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp"
+        app:srcCompat="@drawable/book_now_3" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="  Hi!  "
+        android:textColor="#ffffff"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView6"
+        android:layout_alignStart="@+id/imageView6"
+        android:layout_below="@+id/textView3"
+        android:text="we got"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:text="1280 Sports Venues"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:text="200 Pro Trainer"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView6"
+        android:layout_centerHorizontal="true"
+        android:text="123 Events"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView7"
+        android:layout_centerHorizontal="true"
+        android:text="&amp;"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView8"
+        android:layout_centerHorizontal="true"
+        android:text="5 Sports Groups"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_above="@+id/locationButton"
+        android:layout_alignBottom="@id/textView10"
+        android:layout_alignTop="@id/textView10"
+        android:layout_toLeftOf="@+id/textView10"
+        android:layout_toStartOf="@+id/textView10"
+        app:srcCompat="@drawable/map_pin" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView9"
+        android:layout_marginTop="15dp"
+        android:layout_toLeftOf="@+id/locationButton"
+        android:layout_toStartOf="@+id/locationButton"
+        android:text=" AROUND "
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/locationButton"
+        android:layout_marginTop="15dp"
+        android:layout_toEndOf="@+id/textView10"
+        android:layout_toRightOf="@+id/textView10"
+        android:text=" Times Square,New York,USA"
+        android:textColor="#118C4E"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageView7"
+        android:layout_marginTop="30dp"
+        android:text="   Choose Your Sports"
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+
+    <View
+        android:layout_below="@id/textView12"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#118C4E"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/view2" />
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@+id/textView12"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="80dp"
+            android:layout_height="84dp"
+            android:layout_weight="1"
+            android:background="@drawable/game_button_selector"
+            android:drawableTop="@drawable/all_sports"
+            android:paddingTop="25dp"
+            android:text="All Sports"
+            android:textColor="@color/textColor"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:background="@drawable/game_button_selector"
+            android:drawableTop="@drawable/baseball"
+            android:paddingTop="25dp"
+            android:text="Baseball"
+            android:textColor="@color/textColor"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:background="@drawable/game_button_selector"
+            android:drawableTop="@drawable/basketball"
+            android:paddingTop="25dp"
+            android:text="Basketball"
+            android:textColor="@color/textColor"
+            android:textSize="10sp" />
+
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="80dp"
+            android:layout_height="82dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/game_button_selector"
+            android:drawableTop="@drawable/american_football"
+            android:paddingTop="25dp"
+            android:text="American Football"
+            android:textColor="@color/textColor"
+            android:textSize="7sp" />
+
+
+    </LinearLayout>
+
+
+
+      <LinearLayout android:id="@+id/ll2"
+          android:layout_width="match_parent"
+          android:layout_height="80dp"
+          android:orientation="horizontal"
+          android:layout_below="@id/ll1">
+
+          <Button
+              android:id="@+id/button5"
+              android:layout_width="100dp"
+              android:layout_height="82dp"
+              android:layout_weight="1"
+              android:background="@drawable/game_button_selector"
+              android:drawableTop="@drawable/cricket"
+              android:paddingTop="25dp"
+              android:text="Cricket"
+              android:textColor="@color/textColor"
+              android:textSize="10sp" />
+
+          <Button
+              android:id="@+id/button6"
+              android:layout_width="100dp"
+              android:layout_height="82dp"
+              android:layout_weight="1"
+              android:background="@drawable/game_button_selector"
+              android:drawableTop="@drawable/football"
+              android:paddingTop="25dp"
+              android:text="soccer"
+              android:textColor="@color/textColor"
+              android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:background="@drawable/game_button_selector"
+            android:drawableTop="@drawable/volleyball"
+            android:paddingTop="25dp"
+            android:text="volleyball"
+            android:textColor="@color/textColor"
+            android:textSize="10sp"
+            android:layout_weight="1"/>
+
+          <Button
+              android:id="@+id/button8"
+              android:layout_width="100dp"
+              android:layout_height="82dp"
+              android:layout_weight="1"
+              android:background="@drawable/game_button_selector"
+              android:drawableTop="@drawable/badminton"
+              android:paddingTop="25dp"
+              android:text="badminton"
+              android:textColor="@color/textColor"
+              android:textSize="10sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/ll2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/login_btn_shape"
+        android:paddingBottom="0dp"
+        android:paddingTop="3dp"
+        android:text="Got It"
+        android:textColor="@color/textColor"
+        android:textSize="15sp"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"/>
+
+    <Button
+        android:id="@+id/locationButton"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_below="@+id/textView10"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:background="#030303"
+        android:clickable="true"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp"
+        android:text="change location"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="12sp" />
+
+
+</RelativeLayout>

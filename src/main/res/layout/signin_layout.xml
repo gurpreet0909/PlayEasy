@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="#030303">
+
+    <include
+        android:id="@+id/app_bar1"
+        layout="@layout/app_bar"/>
+
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText5"
+        android:layout_alignStart="@+id/editText5"
+        android:layout_below="@+id/app_bar1"
+        android:layout_marginLeft="18dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="39dp"
+        android:button="@drawable/custom_checkbox"
+        android:text=" Member"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="17sp" />
+
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/checkBox2"
+        android:layout_alignBottom="@+id/checkBox2"
+        android:layout_marginLeft="26dp"
+        android:layout_marginStart="26dp"
+        android:layout_toEndOf="@+id/checkBox2"
+        android:layout_toRightOf="@+id/checkBox2"
+        android:button="@drawable/custom_checkbox"
+        android:text=" New User"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="17sp" />
+
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText"
+        android:layout_alignStart="@+id/editText"
+        android:layout_below="@+id/checkBox2"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:textColor="@color/textColor"
+        android:textColorHint="@android:color/darker_gray"
+        android:textSize="15sp" />
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/checkBox2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="80dp"
+        android:ems="10"
+        android:hint="Your Email"
+        android:inputType="textPersonName"
+        android:textColor="@color/textColor"
+        android:textColorHint="@android:color/darker_gray"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText"
+        android:layout_alignStart="@+id/editText"
+        android:layout_below="@+id/editText"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="7dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColor="@color/textColor"
+        android:textColorHint="@android:color/darker_gray"
+        android:textSize="15sp" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/checkBox2"
+        android:layout_alignStart="@+id/checkBox2"
+        android:layout_below="@+id/editText3"
+        android:layout_marginTop="20dp"
+        android:button="@drawable/square_checkbox"
+        android:text=" Show Password"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="13sp" />
+
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/checkBox4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:background="@drawable/login_btn_shape"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:text="SUBMIT"
+        android:textColor="@color/textColor"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_above="@+id/textView17"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:background="#030303"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:text="Forgot Password?"
+        android:textColor="@color/colorPrimary" />
+
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="22dp"
+        android:text="OR CONNECT INSTANTLY WITH"
+        android:textColor="@android:color/darker_gray" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/linearLayout">
+
+        <Button
+            android:id="@+id/button_facebook_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/facebook"
+            android:text="Facebook"
+            android:textColor="@color/textColor"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true" android:focusable="true" />
+
+        <Button
+            android:id="@+id/button_twitter_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@android:color/holo_blue_light"
+            android:text="Twitter"
+            android:textColor="@color/textColor"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true" android:focusable="true"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
